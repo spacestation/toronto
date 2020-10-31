@@ -1,2 +1,2 @@
 # toronto
-Toronto Developer Directory
+Toronto Developer for hire Directory
